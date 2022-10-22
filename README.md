@@ -29,6 +29,7 @@ license.
 
 ## Contributing         
 Ryan McCarthy         
+video walkthrough: https://drive.google.com/file/d/1GHRAZxBv5jbzyHlgeUTDOKVo9JQje5Ya/view
 
 ## Tests         
 Insomnia required for testing
